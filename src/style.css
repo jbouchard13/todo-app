@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: #55868c;
+  --secondary-bg-color: #cacaaa;
+  --dark-bg-color: #27252c;
+  --dark-bg-shade: #585464;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#content {
+  display: grid;
+  grid-template-columns: 20% auto;
+  grid-template-rows: 75px auto;
+  height: 100vh;
+}

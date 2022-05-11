@@ -1,0 +1,9 @@
+#navContainer {
+  background-color: var(--main-bg-color);
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+#navContainer h1 {
+  padding-left: 20px;
+}

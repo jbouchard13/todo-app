@@ -1,0 +1,8 @@
+#sideBarContainer {
+  grid-column-start: 1;
+  background-color: var(--dark-bg-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
