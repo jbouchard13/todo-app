@@ -2,3 +2,7 @@
   display: flex;
   justify-content: space-between;
 }
+
+.todo p {
+  margin: 0;
+}

@@ -6,3 +6,19 @@
   align-items: center;
   padding-top: 20px;
 }
+
+#sideBarContainer h2 {
+  color: white;
+}
+
+#projectsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+#addProject {
+  text-align: center;
+  font-weight: bolder;
+}
